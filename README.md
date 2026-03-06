@@ -44,3 +44,6 @@ If you're working with **Pixhawk-compatible flight controllers and want to run B
 - or contact me.
 
 I may already have a working firmware build for your hardware.
+If you wish to obtain technical support, please contact me
+telegram：@zaqm88
+email：luhaoy2023@gmail.com
